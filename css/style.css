@@ -1,0 +1,75 @@
+body {
+  overflow-x: hidden;
+}
+
+h1 {
+  margin: 0 auto;
+  text-align: center;
+  color: indianred;
+  align-items: center;
+  display: inline-block;
+  align-self: center;
+}
+
+#bg {
+  height: 200px;
+  width: 100%;
+  background-image: url(../images/517085.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+#bg2 {
+  height: 200px;
+  width: 100%;
+  background-image: url(../images/bg3.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+#bg3 {
+  height: 200px;
+  width: 100%;
+  background-image: url(../images/bg4.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+#bg4 {
+  height: 200px;
+  width: 100%;
+  background-image: url(../images/totoro-hires.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+h1.span {
+  padding-left: 10px;
+}
+
+#timer {
+  border-bottom: grey solid 1px;
+  text-align: center;
+  align-items: center;
+  margin-top: 40px;
+}
+
+.text {
+  font-size: medium;
+  color: blue;
+  font-family: "Quicksand";
+  font-weight: 900;
+}
+
+.numbers {
+  color: indianred;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: 100px;
+  font-family: "Quicksand";
+}
+
+#gif {
+  align-items: center;
+  margin: 0 auto;
+}
